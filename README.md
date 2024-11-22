@@ -1,4 +1,4 @@
-# Efficient Load Balancing Using LOOK-Based Scheduling Algorithms
+# Efficient Load Balancing Using Zig-Zag Scheduling Algorithm
 
 This repository contains the implementation of a **load balancing scheduling algorithm** inspired by the **LOOK disk scheduling algorithm**, developed to efficiently distribute jobs across multiple machines. The project includes the **Zigzag Scheduling Algorithm**, which closely approximates the **Sorted Balanced Algorithm** while offering significantly better computational efficiency.
 
